@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\nick\desktop\visual studio projects\predator and prey\sfml template\sfml template\main.cpp(382): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\predator and prey\sfml template\sfml template\main.cpp(384): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\predator and prey\sfml template\sfml template\main.cpp(388): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\predator and prey\sfml template\sfml template\main.cpp(393): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML Template.vcxproj -> C:\Users\Nick\Desktop\Visual Studio Projects\Predator and Prey\SFML Template\Debug\SFML Template.exe
