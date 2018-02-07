@@ -14,10 +14,10 @@ Organism::Organism(int t)
 		life = 0;
 	}
 	else if (t == 1) {
-		life = 8;
+		life = 1;
 	}
 	else if (t == 2) {
-		life == 1;
+		life = 4;
 	}
 }
 
@@ -47,18 +47,10 @@ int Organism::getType()
 }
 
 
-void Organism::setOrganism(int t)
+void Organism::setOrganism(int t, int l)
 {
 	type = t;
-	if (t == 0) {
-		life = 0;
-	}
-	else if (t == 1) {
-		life = 1;
-	}
-	else if (t == 2) {
-		life == 5;
-	}
+	life = l;
 }
 
 void Organism::incLife()

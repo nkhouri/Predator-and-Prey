@@ -14,7 +14,7 @@ public:
 	int getLife();
 	int getType();
 
-	void setOrganism(int);
+	void setOrganism(int, int);
 	void incLife();
 	void decLife();
 };
